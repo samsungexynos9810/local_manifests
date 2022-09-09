@@ -17,6 +17,6 @@
   <project name="samsungexynos9810/device_samsung_slsi_sepolicy" path="device/samsung_slsi/sepolicy" revision="thirteen" remote="github"/>
   
   <!-- Kernel -->
-  <project name="samsungexynos9810/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="thirteen" remote="github"/>
+  <project name="samsungexynos9810/kernel_samsung_exynos9810" path="kernel/samsung/exynos9810" revision="thirteen-staging" remote="github"/>
 
 </manifest>
